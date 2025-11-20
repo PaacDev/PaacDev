@@ -25,38 +25,15 @@ Landing page personal desarrollada para presentar mi trabajo, servicios como fre
 
 ---
 
-## 🌐 Demo en vivo  
-La página está publicada en GitHub Pages:  
-👉 _[https://paacdev.github.io](#)_ (ajusta con tu URL real)
-
----
-
 ## 📂 Estructura del proyecto
 ```bash
 /
 ├─ index.html
 └─ assets/
    └─ images/
-      └─ foto_perfil.jpg
+      └─ imagen_perfil.png
 ```
 
----
-
-## 🛠️ Cómo editar o usar este proyecto
-
-1. Clona el repo  
-```bash
-   git clone https://github.com/PaacDev/PaacDev_landing.git
-```
-
-2. Edita index.html para personalizar contenido.
-   
-3. Sube cambios con:
-```bash
-git add .
-git commit -m "Actualización"
-git push
-```
 ---
 
 ## 📧 Contacto
